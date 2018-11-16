@@ -1,0 +1,16 @@
+{
+"id" : "101",
+"name" : "Coke",
+"image" : "https://i5.walmartimages.com/asr/75f6afa0-ad3e-4a9e-bed0-e2ca2510d598_1.24631b2fa5a9a562455dfb355dac9ff6.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+"price" : "2$",
+"expiry" : "20/09/2018",
+"Ingredients" : ["Carbonated water","Sugar", "Caffeine", "Phosphoric acid", "Caramel color","Natural flavorings"],
+"hasEnrichExp" : "false",
+"enrichExp" : null,
+"energy" : "187 kcal",
+"carbohydrate" : "10 g",
+"Added Sugar" : "10 g",
+"Protein" : "0 g",
+"Fat" : "0 g"
+}
+

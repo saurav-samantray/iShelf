@@ -1,0 +1,15 @@
+{
+"id" : "105",
+"name" : "ASDA 2 Salmon Fillets",
+"image" : "https://ui3.assets-asda.com/g/v5/136/010/5054070136010_280_IDShot_3.jpeg",
+"price" : "2$",
+"expiry" : "20/09/2020",
+"Ingredients" : ["Salmon (Salmo salar) (Fish)"],
+"hasEnrichExp" : "true",
+"enrichExp" : [{"image": "https://media.treehugger.com/assets/images/2012/05/fish-market.jpg","location":"Goa","Date":"19/06/2018"},{"image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/49/87/af/fresh-fish-delivery-every.jpg","location":"Bangalore","Date":"20/06/2018"}],
+"energy" : "225 Kcal",
+"carbohydrate" : "0.5 g",
+"Added Sugar" : "0 g",
+"Protein" : "24 g",
+"Fat" : "14 g"
+}

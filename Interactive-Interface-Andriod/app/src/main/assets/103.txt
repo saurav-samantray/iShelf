@@ -1,0 +1,15 @@
+{
+"id" : "103",
+"name" : "Britannia Digestive Biscuit",
+"image" : "https://i5.walmartimages.com/asr/196d51bd-350d-4881-99ea-c8d5b37a124d_1.8a90bd8b25176b7953129420f1e06be3.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+"price" : "2$",
+"expiry" : "20/09/2019",
+"Ingredients" : ["wheat flour","wheat bran","sugar","salt","Skim milk powder","antioxidant"],
+"hasEnrichExp" : "false",
+"enrichExp" : null,
+"energy" : "200 Kcal",
+"carbohydrate" : "70 g",
+"Added Sugar" : "20 g",
+"Protein" : "8 g",
+"Fat" : "0 g"
+}

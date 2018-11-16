@@ -1,0 +1,17 @@
+{
+"id" : "102",
+"name" : "Paper boat",
+"image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZA2RHoM0alBsdAJOhyyyqs3jq4VjAMtqSJ4R6pL-xPAtcOciH",
+"price" : "2$",
+"expiry" : "20/09/2019",
+"Ingredients" : ["Water","Sugar", "Lemon", "green mango", "black salt","salt","cumin powder","black pepper","dry mango powder"],
+"hasEnrichExp" : "false",
+"enrichExp" : null,
+"energy" : "47 Kcal",
+"carbohydrate" : "0 g",
+"Added Sugar" : "0 g",
+"Protein" : "0 g",
+"Fat" : "0 g",
+"recommended products" : ["8901764175022","106"],
+"shelfId" : "1000"
+}
